@@ -3,6 +3,7 @@ from services.server import run_server
 
 # Import API routers
 import api.v1
+import api.v1.stable_diffusion
 
 
 async def main():

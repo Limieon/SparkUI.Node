@@ -8,6 +8,7 @@ uvicorn[standard]
 fastapi
 requests
 urllib3
+websockets
 
 # Utils
 pillow
