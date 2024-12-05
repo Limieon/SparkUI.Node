@@ -1,0 +1,56 @@
+# Torch
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+torchaudio==2.5.1+cu124
+
+# HTTP
+uvicorn[standard]
+fastapi
+requests
+urllib3
+
+# Utils
+pillow
+safetensors
+scikit-image
+torchsde
+transformers
+pillow-avif-plugin
+easing-functions
+facexlib
+matplotlib!=3.9.1
+picklescan
+prompt-toolkit
+pypatchmatch
+
+# ML
+numpy
+pandas
+deepcache
+ollama
+omegaconf
+open-clip-torch
+pytorch_lightning
+bitsandbytes
+controlnet-aux
+gguf
+onnx
+onnxruntime
+onnxruntime-gpu
+onnxruntime-directml
+opencv-python
+sentencepiece # Used by Flux
+torchmetrics
+torchsde
+torchvision
+pydantic
+pydantic-settings
+python-socketio
+xformers
+
+# Other
+blendmodes
+diskcache
+inflection
+jsonmerge
+python-dotenv
