@@ -28,7 +28,7 @@ pypatchmatch
 diffusers[torch]
 numpy
 pandas
-deepcache
+DeepCache
 ollama
 omegaconf
 open-clip-torch
@@ -49,6 +49,7 @@ pydantic
 pydantic-settings
 python-socketio
 xformers
+peft
 
 # Other
 blendmodes
