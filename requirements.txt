@@ -25,6 +25,7 @@ prompt-toolkit
 pypatchmatch
 
 # ML
+diffusers[torch]
 numpy
 pandas
 deepcache
@@ -55,3 +56,5 @@ diskcache
 inflection
 jsonmerge
 python-dotenv
+GPUtil
+py-cpuinfo
